@@ -1,4 +1,4 @@
-# CORTEX // NEXT-GEN HOLOGRAPHIC SOC
+# HELIX // NEXT-GEN HOLOGRAPHIC SOC
 ### Advanced Self-Healing Cyber Immune Network (Master's Thesis Edition)
 
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-cyan?style=for-the-badge&logo=shield)
@@ -18,7 +18,7 @@ This project is now a **Native Next.js Application**, fully compatible with Verc
 1. **Push to GitHub**
    ```bash
    git add .
-   git commit -m "Initialize CORTEX Next.js System"
+   git commit -m "Initialize HELIX Next.js System"
    git push origin main
    ```
 
