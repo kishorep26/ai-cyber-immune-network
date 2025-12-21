@@ -14,7 +14,7 @@ const rajdhani = Rajdhani({
 });
 
 export const metadata: Metadata = {
-    title: "HELIX // ADVANCED DEFENSE",
+    title: "Helix AI Cyber Immune System",
     description: "Self-Healing AI Cyber Immune Network",
 };
 
