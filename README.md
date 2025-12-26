@@ -31,6 +31,30 @@ An advanced self-healing AI cyber immune network designed for master's thesis re
 
 ![HELIX Dashboard](https://htbuikuqbwstckwscktq.supabase.co/storage/v1/object/public/images/projects/Helix-Cyber-Immune.png)
 
+## Usage Guide
+
+### Running Threat Simulations
+Access the simulation dashboard to configure and run threat scenarios:
+```bash
+npm run simulate -- --scenario malware-attack
+```
+
+### Monitoring Security Metrics
+View real-time security analytics through the Groq-integrated dashboard:
+- Navigate to `/dashboard/analytics`
+- Monitor detection accuracy and response times
+- Review automated threat mitigation logs
+
+### Self-Healing Configuration
+Configure adaptive defense parameters in `config/defense.js`:
+```javascript
+module.exports = {
+  healingThreshold: 0.85,
+  responseMode: 'adaptive',
+  federatedLearning: true
+}
+```
+
 ## Getting Started
 1. Install dependencies: npm install or yarn install
 2. Configure environment variables in .env.example
