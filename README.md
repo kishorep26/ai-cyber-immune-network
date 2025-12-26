@@ -27,6 +27,10 @@ An advanced self-healing AI cyber immune network designed for master's thesis re
 - Visualization: Streamlit
 - Deployment: Vercel (Native Next.js Application)
 
+- ## Screenshots
+
+![HELIX Dashboard](https://htbuikuqbwstckwscktq.supabase.co/storage/v1/object/public/images/projects/Helix-Cyber-Immune.png)
+
 ## Getting Started
 1. Install dependencies: npm install or yarn install
 2. Configure environment variables in .env.example
